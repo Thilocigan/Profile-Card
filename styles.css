@@ -161,6 +161,10 @@ img{
     display: flex;
 }
 
+.social-media a{
+    text-decoration: none;
+}
+
 .social-media i{
     cursor: pointer;
     width: 40px;
